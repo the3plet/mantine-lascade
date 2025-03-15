@@ -30,7 +30,7 @@ const Faq = () => {
           Talk to us
         </p>
       </div>
-      <div className="flex justify-center py-10 lg:pt-28 lg:px-36">
+      <div className="flex justify-center py-10 lg:pt-11 lg:px-48">
         <img
           alt="img"
           src="/footer.svg"

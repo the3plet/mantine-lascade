@@ -4,8 +4,8 @@ import { Button } from "./ui/button";
 const HeroSection = () => {
   return (
     <div className="bg-[#1d1c1c] lg:bg-[#0C0C0C] flex flex-col  gap-6 pt-20 rounded-b-3xl mb-14">
-      <div className="px-8  gap-6 flex flex-col lg:px-48">
-        <h1 className="flex  justify-start text-white text-5xl lg:text-7xl font-semibold text-start    lg:line-clamp-2">
+      <div className="px-8  gap-6 flex flex-col lg:px-48 pl-16">
+        <h1 className="flex  justify-start text-white text-5xl lg:text-7xl font-semibold text-start  lg:line-clamp-2">
           Track any Vessel, 
           Anywhere!
         </h1>

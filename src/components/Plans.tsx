@@ -12,7 +12,7 @@ const Plans = () => {
         <h1 className="flex justify-start text-white text-2xl font-semibold text-left lg:text-3xl">
           Smart plans for every voyage
         </h1>
-        <p className="flex justify-center text-sm text-left text-[#AAAAAA] lg:justify-start">
+        <p className="flex justify-center text-sm text-left text-[#AAAAAA] lg:justify-start lg:w-lg">
           Hear from our marine enthusiasts about how Marine Radar has enhanced
           their navigation and delivered real-time insights at sea.
         </p>

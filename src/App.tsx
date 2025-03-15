@@ -7,7 +7,7 @@ import Home from "./pages/Home"
 function App() {
 
   return (
-   <div className="bg-black lg:px-32">
+   <div className="bg-black ">
     <Nav/>
     <Home/>
 <Footer/>
