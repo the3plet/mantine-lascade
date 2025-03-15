@@ -1,0 +1,107 @@
+{
+    "cards": [
+      {
+        "title": "Detailed vessel info",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo",
+        "img": "/card1.png"
+      },
+      {
+        "title": "Ports at a glance",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo",
+        "img": "/card2.png"
+      },
+      {
+        "title": "Light house insights",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commo",
+        "img": "/card3.png"
+      }
+    ],
+    "feedback": [
+      {
+        "id": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+        "name": "Eleanor Pena",
+        "img": "https://s3-alpha-sig.figma.com/img/e93f/7081/184c37526e040502d7abc397f4f8ce82?Expires=1742774400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iQy-oh1oQGpfsLcXsCAzncvHXy9RwO-03Bwe0CG4jPktgiJy4RjfjRDGWk84wzanaj~hoMWFQ~vpCVVk92lFG63n2wlgt9GHOAsjMouuxjmMdhKFHqa-6g3rWIvhBLv7Fd5tzdop8pyfjFVqz1wuRjQ3MqMaVNbJ4NvL51uAMbMeacaEgm3XmjupYk5S6qsVhdHl7Ga877UbqKf4xua9tvonXR~tMy4XglOHPRQVeGfdMURleWz3-ZcNpfWnd5pLypYw~IY2yve2NywRE9OAO7vxjDIvvAgJAtt87XrkkykOThdl-8c2JdXwRLgmSs~PS32ylQoxu4EI41r4H~YQMA__"
+      },
+      {
+        "id": 2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+        "name": "Darrell Steward",
+        "img": "https://s3-alpha-sig.figma.com/img/bd96/89c9/99bf51911b8fb96771c3462efa79a4c7?Expires=1742774400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Th39ioAlgYas6MVq4TVX8Ulw9xsQYZ~9ohy-~amC3QtOSNJsSxL8qepU5AZeOvH-z3IZdb0jE7m0-WmSGTvEODU5c9pzZ6YhQd9tdh5Ge4ZYXw4jFazHWgBvyKg-popooFm-TwNHoVk7EjDMG~BNXEe~ynlD3J2gnOGL9xGW5kgMOUiUX1ghyrSy2DN~Y84wOOcJBX-2Fwm5831fmvTAJ86mPTStrMTwckb-AYVXfNlujpLJhfZNzwa~s8sNBZTqLlf8jzWP1Q-AMLCZaZP9NpWp79nnU-qModPXdIVlnZ-Y3fxvjaRYoIUd197KP~kBVmsOP4QogVMFzjvAyLM-mg__"
+      },
+      {
+        "id": 3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+        "name": "Kathryn Murphy",
+        "img": "https://s3-alpha-sig.figma.com/img/c56e/1268/fe3fa0e4fdba0d620a21db0a68a65466?Expires=1742774400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Hhd3mPD9kav8mce1nyRIxNksT3rtVyO8RfcFPD5KytZ5XroaOhOZ12rm5WTb3P~vuJytWcyBAOileld6jAGWrrGMy9imXVC~M3H7xcYI50z8uVXbAkpQXx5F5~Ajx0LjhojAUCLmFO6fAFRSOIqEQukD9S4FHoRFWywK30k7MBRikDOXYomAUswdAXzOBiDxQnLNlmI1hih0Pm3gJgYSI3KVkIlutAeY8UKTp48YWV1wCJnOxiQHYPL~FLuu0kb3x26-Er1ofnUWQP7--WXUIseeYAvF7DaeasLwWdKFdMiakf9hlZr4Pq5sRNgIg5Fg2ZaD83aabyNbAjhCRluBPQ__"
+      },
+      {
+        "id": 4,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna.",
+        "name": "Brooklyn Simmons",
+        "img": "https://s3-alpha-sig.figma.com/img/3c80/89b0/f9c4512d5d662d733f7c4a8c49ff3502?Expires=1742774400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uZpQUjzBilOFiDssobSZv3mDUqGEM8-gECy9-aei59ZfQaYPGSNfbUVm8jma0zzR3NjV~sBtx~8lpapO0buz0ckZSvHoSltOqoSdXQX~Bi-bwviyGkzbxSWHeHyBZWNKJovYUAv2XiWm-FfSiIB0U2mlX-ebOGhzisZ~FkNePVg9ms4anCQE6HtT4e5J-B4tiPvX4j9LbKNbf~6zvmZa9z8ZOH5xofHmcOON4u55vChVMNGA5CpxcjsMneVg3cksxGv66vVPnaRqDH7xgd0pFv~fEL4sYnpi3Gru26~KFQUJbXSxNkymiVshqS0FfJ5vB2zxVw84kmXYKk9Iw8kj6g__"
+      }
+    ],
+    "plans": [
+        {
+            "id": 1,
+            "name": "Free",
+            "price": "$0 / Month",
+            "features": [
+                "Up to 2 vessel tracking",
+                "Port data",
+                "Lighthouse data",
+                "Area statistics",
+                "Route planner (limited)"
+            ],
+            "cta": "Get started"
+        },
+        {
+            "id": 2,
+            "name": "Weekly",
+            "price": "$399 / Month",
+            "features": [
+                "Up to 2 vessel tracking",
+                "Port data",
+                "Lighthouse data",
+                "Area statistics",
+                "Route planner"
+            ],
+            "cta": "Get started"
+        },
+        {
+            "id": 3,
+            "name": "Monthly",
+            "price": "$3999 / Month",
+            "features": [
+                "Up to 2 vessel tracking",
+                "Port data",
+                "Lighthouse data",
+                "Area statistics",
+                "Route planner"
+            ],
+            "cta": "Get started"
+        }
+    ],
+    "faq": [
+    {
+      "question": "How cool is this app"
+    },
+    {
+      "question": "Its design is incredibly user-friendly"
+    },
+    {
+      "question": "The features are intuitive and easy to navigate"
+    },
+    {
+      "question": "It offers seamless integration with other tools"
+    },
+    {
+      "question": "The performance is consistently reliable and fast"
+    },
+    {
+      "question": "User feedback has been overwhelmingly positive"
+    }
+  ]
+  }
+  

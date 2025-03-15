@@ -8,12 +8,11 @@
     "skipLibCheck": true,
 
 
-    "compilerOptions": {
       "baseUrl": ".",
       "paths": {
         "@/*": ["./src/*"]
-      }
-    },
+      },
+   
 
     /* Bundler mode */
     "moduleResolution": "bundler",

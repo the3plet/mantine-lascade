@@ -10,10 +10,9 @@ type Props = {};
 
 const Nav = (props: Props) => {
   return (
-    <NavigationMenu className="bg-[#0C0C0C]">
-      <NavigationMenuList className="flex  justify-between w-screen px-16 py-8">
-       
-        <NavigationMenuItem className="flex gap-3">
+    <NavigationMenu className="bg-[#0C0C0C] border-black  lg:w-auto">
+      <NavigationMenuList className="flex  justify-between w-screen lg:w-screen px-7 py-10 lg:px-60 lg:py-10 border-black">
+        <NavigationMenuItem className="flex gap-3 lg:w-auto">
           <svg
             width="36"
             height="36"
@@ -148,9 +147,9 @@ const Nav = (props: Props) => {
               </clipPath>
             </defs>
           </svg>
-          <h3 className="text-[#FFFFFF] flex items-center">Marine Radar</h3>
+          <h3 className="text-[#FFFFFF] flex items-center font-semibold text-xl">Marine Radar</h3>
         </NavigationMenuItem>
-        <div className="flex gap-2">
+        <div className=" gap-2 hidden lg:flex">
           <NavigationMenuItem>
             <svg
               width="46"
