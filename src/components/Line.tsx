@@ -1,5 +1,4 @@
-import React from "react";
-import { ChevronDown, ChevronUp, Gem, LayoutDashboard, MessageCircle, User } from "lucide-react"; // Import Lucide icons
+import {  ChevronUp, Gem, LayoutDashboard, MessageCircle, User } from "lucide-react"; // Import Lucide icons
 
 const Line = () => {
   return (
