@@ -52,7 +52,8 @@
                 "Port data",
                 "Lighthouse data",
                 "Area statistics",
-                "Route planner (limited)"
+                "Route planner",
+                "Route planner"
             ],
             "cta": "Get started"
         },
@@ -65,6 +66,7 @@
                 "Port data",
                 "Lighthouse data",
                 "Area statistics",
+                "Route planner",
                 "Route planner"
             ],
             "cta": "Get started"
@@ -78,6 +80,7 @@
                 "Port data",
                 "Lighthouse data",
                 "Area statistics",
+                "Route planner",
                 "Route planner"
             ],
             "cta": "Get started"

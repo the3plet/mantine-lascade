@@ -3,7 +3,7 @@ import { Button } from "./ui/button";
 
 const HeroSection = () => {
   return (
-    <div className="bg-[#0C0C0C] flex flex-col  gap-6 pt-20 rounded-b-3xl mb-14">
+    <div className="bg-[#1d1c1c] lg:bg-[#0C0C0C] flex flex-col  gap-6 pt-20 rounded-b-3xl mb-14">
       <div className="px-8  gap-6 flex flex-col lg:px-48">
         <h1 className="flex  justify-start text-white text-5xl lg:text-7xl font-semibold text-start    lg:line-clamp-2">
           Track any Vessel, 
@@ -15,7 +15,7 @@ const HeroSection = () => {
         <Button className="bg-[#0A84FF] text-white rounded-3xl shadow-[0px_0px_30px_#0A84FF59] w-36 hidden lg:flex lg:items-center lg:text-center lg:py-6 [text-shadow:0px_0px_2px_rgba(255,255,255,0.8)]">
           Try For free
         </Button>
-        <Button className="bg-[#0A84FF] rounded-3xl text-white  shadow-[0px_0px_15px_#0A84FF59] w-32 lg:hidden flex justify-center items-center  [text-shadow:0px_0px_2px_rgba(255,255,255,0.8)]">
+        <Button className="bg-[#0A84FF] text-lg py-7 rounded-3xl text-white  shadow-[5px_20px_40px_#0A84FF59] w-44 lg:hidden flex justify-center items-center  [text-shadow:0px_0px_2px_rgba(255,255,255,0.8)]">
           Get the app
         </Button>
       </div>

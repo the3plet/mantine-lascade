@@ -4,10 +4,9 @@ import {
   NavigationMenuList,
 } from "./ui/navigation-menu";
 
-
 const Nav = () => {
   return (
-    <NavigationMenu className="bg-[#0C0C0C] border-black  lg:w-auto">
+    <NavigationMenu className="bg-[#1d1c1c] lg:bg-[#0C0C0C] border-black  lg:w-auto">
       <NavigationMenuList className="flex  justify-between w-screen lg:w-screen px-7 py-10 lg:px-60 lg:py-10 border-black">
         <NavigationMenuItem className="flex gap-3 lg:w-auto">
           <svg
@@ -144,11 +143,13 @@ const Nav = () => {
               </clipPath>
             </defs>
           </svg>
-          <h3 className="text-[#FFFFFF] flex items-center font-semibold text-xl">Marine Radar</h3>
+          <h3 className="text-[#FFFFFF] flex items-center font-semibold text-xl">
+            Marine Radar
+          </h3>
         </NavigationMenuItem>
         <div className=" gap-2 hidden lg:flex">
           <NavigationMenuItem>
-            <svg
+            <svg className="cursor-pointer"
               width="46"
               height="38"
               viewBox="0 0 46 38"
@@ -163,7 +164,7 @@ const Nav = () => {
             </svg>
           </NavigationMenuItem>
           <NavigationMenuItem>
-            <svg
+            <svg className="cursor-pointer"
               width="46"
               height="38"
               viewBox="0 0 46 38"
