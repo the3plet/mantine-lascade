@@ -1,9 +1,7 @@
-import React from "react";
 import { Button } from "./ui/button";
 
-type Props = {};
 
-const HeroSection = (props: Props) => {
+const HeroSection = () => {
   return (
     <div className="bg-[#0C0C0C] flex flex-col  gap-6 pt-20 rounded-b-3xl mb-14">
       <div className="px-8  gap-6 flex flex-col lg:px-48">

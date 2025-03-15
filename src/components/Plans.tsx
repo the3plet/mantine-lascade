@@ -3,9 +3,9 @@ import { Button } from "./ui/button";
 import { Card, CardContent } from "./ui/card";
 import { Checkbox } from "./ui/checkbox";
 import { Separator } from "./ui/separator";
-type Props = {};
 
-const Plans = (props: Props) => {
+
+const Plans = () => {
   return (
     <div className="py-8">
       <div className="flex flex-col gap-4 px-14 pb-10">

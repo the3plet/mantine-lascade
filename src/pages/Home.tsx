@@ -1,20 +1,18 @@
-import React from "react";
 import HeroSection from "../components/HeroSection";
 import DetailCard from "@/components/DetailCard";
 import UserFeedback from "@/components/UserFeedback";
 import Plans from "@/components/Plans";
-import Faq from "@/components/FAQ";
+import Faq from "@/components/Faq";
 
-type Props = {};
 
-const Home = (props: Props) => {
+const Home = () => {
   return (
     <div className="flex flex-col pb-10 gap-6">
       <HeroSection />
       <DetailCard />
       <UserFeedback />
       <Plans />
-      <Faq />
+      <Faq/>
     </div>
   );
 };

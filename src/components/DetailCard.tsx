@@ -1,4 +1,3 @@
-import React from "react";
 import {
   Card,
   CardContent,
@@ -8,9 +7,8 @@ import {
 } from "./ui/card";
 import api from "../../data.json";
 
-type Props = {};
 
-const DetailCard = (props: Props) => {
+const DetailCard = () => {
   return (
     <div className="py-8">
       <div className="flex flex-col gap-4 px-14 pb-10">

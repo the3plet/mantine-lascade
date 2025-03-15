@@ -1,7 +1,7 @@
 import api from '../../data.json'
-type Props = {};
 
-const Faq = (props: Props) => {
+
+const Faq = () => {
   return (
     <div className="py-8">
       <div className="flex flex-col gap-4 px-14 pb-10">
@@ -11,6 +11,7 @@ const Faq = (props: Props) => {
         <p className="flex justify-center text-sm text-left text-[#AAAAAA]">
           Hear from our marine enthusiasts about how Marine
         </p>
+        
       </div>
       <div>
         <ul className='list-none gap-2 mx-10'>

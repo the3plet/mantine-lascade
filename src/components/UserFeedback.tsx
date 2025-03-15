@@ -1,9 +1,9 @@
 import api from "../../data.json";
 import { Avatar, AvatarFallback, AvatarImage } from "./ui/avatar";
 import { Card, CardContent } from "./ui/card";
-type Props = {};
 
-const UserFeedback = (props: Props) => {
+
+const UserFeedback = () => {
   return (
     <div className="py-8">
       <div className="flex flex-col gap-4 px-14 pb-10">

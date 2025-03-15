@@ -1,14 +1,11 @@
-import React from "react";
 import {
   NavigationMenu,
   NavigationMenuItem,
   NavigationMenuList,
-  NavigationMenuViewport,
 } from "./ui/navigation-menu";
 
-type Props = {};
 
-const Nav = (props: Props) => {
+const Nav = () => {
   return (
     <NavigationMenu className="bg-[#0C0C0C] border-black  lg:w-auto">
       <NavigationMenuList className="flex  justify-between w-screen lg:w-screen px-7 py-10 lg:px-60 lg:py-10 border-black">
