@@ -34,12 +34,12 @@ const Faq = () => {
         <img
           alt="img"
           src="/footer.svg"
-          className=" justify-center h-[34rem] hidden"
+          className=" justify-center h-[34rem] lg:hidden"
         />
         <img
           alt="img"
           src="/footer2.svg"
-          className=" justify-center h-[34rem] lg:flex"
+          className=" justify-center h-[34rem] lg:flex hidden"
         />
       </div>
     </div>
